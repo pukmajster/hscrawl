@@ -1,0 +1,13 @@
+
+"AddonInfo"
+{
+	addonSteamAppID 550
+	addontitle "Gabu's Mod"
+	addonversion 1.0
+	addontagline "Made with <# by Kri for Gabu c:"
+	addonauthor "kri"
+	addonauthorSteamId "kryfixzzz"
+	
+	addonDescription "What gun bag?"
+}
+
